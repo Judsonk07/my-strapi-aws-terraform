@@ -1,0 +1,21 @@
+# Node / Strapi
+node_modules/
+.build/
+.cache/
+dist/
+tmp/
+.env
+.env.*
+
+# Terraform
+infra/.terraform/
+infra/*.tfstate
+infra/*.tfstate.*
+infra/crash.log
+infra/terraform.tfvars
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
