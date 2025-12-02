@@ -49,7 +49,7 @@ NODE_ENV=production HOST=0.0.0.0 PORT=1337 npm run start
 
 ## 🌐 Access Live Strapi
 ```
-http://ec2-<public_dns>.compute.amazonaws.com:1337
+http://ec2-13-200-11-80.ap-south-1.compute.amazonaws.com:1337
 ```
 
 ## 🎥 Screencast Demo
